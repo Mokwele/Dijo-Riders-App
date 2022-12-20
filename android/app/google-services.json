@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "215408603356",
+    "project_id": "dijo-app-cc344",
+    "storage_bucket": "dijo-app-cc344.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215408603356:android:cdeb1e2999ccba8fdcc419",
+        "android_client_info": {
+          "package_name": "com.mokwele.dijo_riders_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215408603356-st00ioqm0d358a51jvaqd6eq6kvrr10n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuiaAyfFF-jGW2YZt79IjfBodBuPX-7P0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215408603356-st00ioqm0d358a51jvaqd6eq6kvrr10n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "215408603356-7l0s64ojdgq5d45d2om7mi1nf5rvgftr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mokwele.firestore"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215408603356:android:0d94a506357dee01dcc419",
+        "android_client_info": {
+          "package_name": "com.mokwele.dijoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215408603356-st00ioqm0d358a51jvaqd6eq6kvrr10n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuiaAyfFF-jGW2YZt79IjfBodBuPX-7P0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215408603356-st00ioqm0d358a51jvaqd6eq6kvrr10n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "215408603356-7l0s64ojdgq5d45d2om7mi1nf5rvgftr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mokwele.firestore"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
