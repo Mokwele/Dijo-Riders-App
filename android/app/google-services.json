@@ -1,41 +1,34 @@
 {
   "project_info": {
-    "project_number": "215408603356",
-    "project_id": "dijo-app-cc344",
-    "storage_bucket": "dijo-app-cc344.appspot.com"
+    "project_number": "710714833861",
+    "project_id": "dijo-2c385",
+    "storage_bucket": "dijo-2c385.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:215408603356:android:cdeb1e2999ccba8fdcc419",
+        "mobilesdk_app_id": "1:710714833861:android:64f772610d0274fcdda9ac",
         "android_client_info": {
           "package_name": "com.mokwele.dijo_riders_app"
         }
       },
       "oauth_client": [
         {
-          "client_id": "215408603356-st00ioqm0d358a51jvaqd6eq6kvrr10n.apps.googleusercontent.com",
+          "client_id": "710714833861-smqpg19gsndve7p02rsr3vjg2a937lgo.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCuiaAyfFF-jGW2YZt79IjfBodBuPX-7P0"
+          "current_key": "AIzaSyBFnP1TZ8eRS8Y0heYn2AwFvrOckyfoLts"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "215408603356-st00ioqm0d358a51jvaqd6eq6kvrr10n.apps.googleusercontent.com",
+              "client_id": "710714833861-smqpg19gsndve7p02rsr3vjg2a937lgo.apps.googleusercontent.com",
               "client_type": 3
-            },
-            {
-              "client_id": "215408603356-7l0s64ojdgq5d45d2om7mi1nf5rvgftr.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "com.mokwele.firestore"
-              }
             }
           ]
         }
@@ -43,35 +36,28 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:215408603356:android:0d94a506357dee01dcc419",
+        "mobilesdk_app_id": "1:710714833861:android:90d04454651c1759dda9ac",
         "android_client_info": {
-          "package_name": "com.mokwele.dijoapp"
+          "package_name": "com.mokwele.sellersapp"
         }
       },
       "oauth_client": [
         {
-          "client_id": "215408603356-st00ioqm0d358a51jvaqd6eq6kvrr10n.apps.googleusercontent.com",
+          "client_id": "710714833861-smqpg19gsndve7p02rsr3vjg2a937lgo.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCuiaAyfFF-jGW2YZt79IjfBodBuPX-7P0"
+          "current_key": "AIzaSyBFnP1TZ8eRS8Y0heYn2AwFvrOckyfoLts"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "215408603356-st00ioqm0d358a51jvaqd6eq6kvrr10n.apps.googleusercontent.com",
+              "client_id": "710714833861-smqpg19gsndve7p02rsr3vjg2a937lgo.apps.googleusercontent.com",
               "client_type": 3
-            },
-            {
-              "client_id": "215408603356-7l0s64ojdgq5d45d2om7mi1nf5rvgftr.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "com.mokwele.firestore"
-              }
             }
           ]
         }
